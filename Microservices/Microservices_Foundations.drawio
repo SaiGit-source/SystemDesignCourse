@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Fa3uQA6XNMrYferqJBMS">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-1" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="Monolith database" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-4" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server2" value="Monolith Application" vertex="1">
+          <mxGeometry height="130" width="111.8" x="244.1" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-6" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="510" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-7" parent="gjWDiAufVrdjMthU_5Ho-6" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="Microservice" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-8" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="Database1" vertex="1">
+          <mxGeometry height="50" width="72" x="498" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-9" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="622" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-10" parent="gjWDiAufVrdjMthU_5Ho-9" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="Microservice" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-11" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="Database2" vertex="1">
+          <mxGeometry height="50" width="72" x="610" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-12" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="722" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-13" parent="gjWDiAufVrdjMthU_5Ho-12" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="Microservice" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-14" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="Database3" vertex="1">
+          <mxGeometry height="50" width="72" x="710" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-18" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="430" as="sourcePoint" />
+            <mxPoint x="490" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-19" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="Monolith database" vertex="1">
+          <mxGeometry height="80" width="80" x="275.9" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-20" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server2" value="Monolith Application" vertex="1">
+          <mxGeometry height="130" width="111.8" x="260" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-21" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="525.9" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-22" parent="gjWDiAufVrdjMthU_5Ho-21" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="Microservice" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-23" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="Database1" vertex="1">
+          <mxGeometry height="50" width="72" x="513.9" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-24" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="637.9" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-25" parent="gjWDiAufVrdjMthU_5Ho-24" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="Microservice" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-26" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="Database2" vertex="1">
+          <mxGeometry height="50" width="72" x="625.9" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-27" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="737.9" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-28" parent="gjWDiAufVrdjMthU_5Ho-27" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="Microservice" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-29" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="Database3" vertex="1">
+          <mxGeometry height="50" width="72" x="725.9" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-33" edge="1" parent="1" source="gjWDiAufVrdjMthU_5Ho-19" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="gjWDiAufVrdjMthU_5Ho-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="780" as="sourcePoint" />
+            <mxPoint x="510" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-34" edge="1" parent="1" source="gjWDiAufVrdjMthU_5Ho-19" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0.976;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;" target="gjWDiAufVrdjMthU_5Ho-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="790" as="sourcePoint" />
+            <mxPoint x="620" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gjWDiAufVrdjMthU_5Ho-35" edge="1" parent="1" source="gjWDiAufVrdjMthU_5Ho-19" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=5;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gjWDiAufVrdjMthU_5Ho-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="800" as="sourcePoint" />
+            <mxPoint x="590" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
